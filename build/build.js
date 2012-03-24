@@ -19,7 +19,7 @@ var config = {
             console.log( contents );
                 
             // perform transformations on the original source
-            contents = contents.replace( /@version/i, new Date().toString() );
+            contents = contents.replace( /#version/i, new Date().toString() );
                 
             // output modified source
             console.log( contents );

@@ -1,5 +1,5 @@
 /*!
- * @version
+ * #version
  */
 require.config( {
     paths : {

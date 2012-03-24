@@ -1,0 +1,7 @@
+
+src/main.js
+----------------
+src/app/module.a.js
+src/app/module.b.js
+src/app/module.c.js
+src/main.js
